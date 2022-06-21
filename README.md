@@ -17,6 +17,10 @@ and change the `5` to the Network interface index of your adapter or NIC.
 
 * Network interface index can be found with ```netsh int ipv4 show interfaces``` (CMD/Powershell)
 
+In below example the server is hosted on the "Wi-Fi" adapter hence the corresponding index (5) has been used.
+
+!["Windows instruction example"](Windows_index_search.png)
+
 * Set port number in line 105 to any available port number.
 
 ### Linux users:
