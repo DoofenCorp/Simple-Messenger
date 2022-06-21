@@ -13,9 +13,9 @@ self.findip = "netsh interface ip show addresses 5".split()
 ```
 
 
-and change the `5` to the Network index of your adapter or NIC.
+and change the `5` to the Network interface index of your adapter or NIC.
 
-* Network index can be found with ```netsh int ipv4 show interfaces```
+* Network interface index can be found with ```netsh int ipv4 show interfaces``` (CMD/Powershell)
 
 * Set port number in line 105 to any available port number.
 
