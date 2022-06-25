@@ -34,6 +34,10 @@ and change the `wlp3s0` to the name of your network adapter or NIC.
 
 * Adapter name can be found with ```ifconfig```
 
+In below example the server is hosted on the "wlp3s0" adapter hence that name has been used.
+
+!["Ubuntu Instruction example"](Linux_adapter_name.png)
+
 * Set port number in line 105 to any available port number.
 
 
