@@ -1,5 +1,5 @@
 # Simple-Messenger
-A simple messenger created with python socket library and Tkinter. Compiled with pylauncher.
+A simple messenger created with python socket library and Tkinter. Compiled with pylauncher. This works in simplex mode.
 
 # Configuration Instructions:
 
